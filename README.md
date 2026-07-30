@@ -1,7 +1,7 @@
 
-# 🚀 Azure End-to-End Data Engineering Project
+# Azure End-to-End Data Engineering Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an end-to-end Azure Data Engineering pipeline built using Microsoft Azure services. The pipeline ingests data from GitHub, stores it in Azure Data Lake Storage, transforms it using Azure Databricks, creates analytical views using Azure Synapse Analytics, and visualizes insights using Power BI.
 
@@ -9,13 +9,13 @@ The project follows the Medallion Architecture (Bronze → Silver → Gold) to b
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ![Architecture](Architecture/Architecture_Diagram.png.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Service | Purpose |
 |----------|----------|
@@ -28,7 +28,7 @@ The project follows the Medallion Architecture (Bronze → Silver → Gold) to b
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```
 GitHub CSV Files
@@ -55,7 +55,7 @@ Power BI Dashboard
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Azur-Adventure-project
@@ -71,7 +71,7 @@ Azur-Adventure-project
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 ![Dashboard](Power BI/Dashboard.png)
 
@@ -97,7 +97,7 @@ Azur-Adventure-project
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 ### Star Schema
 
@@ -105,7 +105,7 @@ Azur-Adventure-project
 
 ---
 
-## 📚 Key Learnings
+##  Key Learnings
 
 - Built an end-to-end Azure Data Engineering pipeline.
 - Implemented Medallion Architecture (Bronze → Silver → Gold).
@@ -118,7 +118,7 @@ Azur-Adventure-project
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Incremental Data Loading
 - CI/CD using Azure DevOps
@@ -129,7 +129,7 @@ Azur-Adventure-project
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Nagaraj D R**
 
